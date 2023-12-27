@@ -491,12 +491,12 @@ export default
         SHAPES: ["kare", "üçgen", "dikdörtgen", "daire"],
         QUESTIONS: [
             'arka plan rengi',
-            'renk metin arka plan rengi',
-            'şekil metin arka plan rengi',
+            'renk yazısının rengi',
+            'şekil yazısının rengi',
             'sayı rengi',
             'şekil rengi',
-            'renk metin',
-            'şekil metin',
+            'rengin yazısı',
+            'şekilin yazısı',
             'şekil'
         ],
         MISC: [
